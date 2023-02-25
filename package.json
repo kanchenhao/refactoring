@@ -1,0 +1,23 @@
+{
+  "name": "refactoring",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kanchenhao/refactoring.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kanchenhao/refactoring/issues"
+  },
+  "homepage": "https://github.com/kanchenhao/refactoring#readme",
+  "dependencies": {
+    "jest": "^29.4.3"
+  }
+}
